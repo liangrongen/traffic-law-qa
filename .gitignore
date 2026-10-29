@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+venv/
+.venv/
+
+# 重建产物（体积大，不要上传）
+traffic_law_db/
+output/chunks_with_vectors.json
+
+# 编辑器与系统文件
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
